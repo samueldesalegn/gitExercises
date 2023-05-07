@@ -31,3 +31,7 @@ let x = "adding conflicting message";
 
 let z = "another message";
 
+function foo(){
+	console.log('trying to push to github!');
+}
+
